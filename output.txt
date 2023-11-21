@@ -1,0 +1,54 @@
+LRU Algorithm:
+Main Memory Capacity: 50
+Number of Unique Pages: 100
+Number of Page Requests: 10000
+LRU Page Faults: 5015
+
+FCFS Algorithm:
+Main Memory Capacity: 50
+Number of Unique Pages: 100
+Number of Page Requests: 10000
+LRU Page Faults: 5000
+
+Random Algorithm:
+Main Memory Capacity: 50
+Number of Unique Pages: 100
+Number of Page Requests: 10000
+LRU Page Faults: 4936
+
+LRU Algorithm:
+Main Memory Capacity: 250
+Number of Unique Pages: 1000
+Number of Page Requests: 100000
+LRU Page Faults: 75173
+
+FCFS Algorithm:
+Main Memory Capacity: 250
+Number of Unique Pages: 1000
+Number of Page Requests: 100000
+LRU Page Faults: 75149
+
+Random Algorithm:
+Main Memory Capacity: 250
+Number of Unique Pages: 1000
+Number of Page Requests: 100000
+LRU Page Faults: 75207
+
+LRU Algorithm:
+Main Memory Capacity: 250
+Number of Unique Pages: 1000
+Number of Page Requests: 1000000
+LRU Page Faults: 750256
+
+FCFS Algorithm:
+Main Memory Capacity: 250
+Number of Unique Pages: 1000
+Number of Page Requests: 1000000
+LRU Page Faults: 750224
+
+Random Algorithm:
+Main Memory Capacity: 250
+Number of Unique Pages: 1000
+Number of Page Requests: 1000000
+LRU Page Faults: 750210
+
